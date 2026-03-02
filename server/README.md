@@ -1,0 +1,1 @@
+This folder contains the work covering the development and deployement of the server.
